@@ -1,2 +1,2 @@
-# coffeehouse-dataset
-"Analysis of a coffee house dataset using Python and SQL
+# coffeeshop-dataset
+"Analysis of a coffee shop dataset using Python and SQL
